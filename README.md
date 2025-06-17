@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 I've mostly worked on closed-source projects to date, however, I do maintain a number of small, personal projects to serve my own needs -
 
+- [`rdmolony/my-linkedin-ui`](https://github.com/rdmolony/my-linkedin-ui)[^LINKEDIN]
 - [`rdmolony/rdmolony.github.io`](https://github.com/rdmolony/rdmolony.github.io) - I host my own static website on `GitHub Pages`[^WEBSITE]
 - [`rdmolony/my-wiki-infra`](https://github.com/rdmolony/my-wiki-infra) - I host my own wiki on [fly.io](https://fly.io/)[^WIKI]
 - [`rdmolony/my-cv`](https://github.com/rdmolony/my-cv) - my CV is written in `LaTEX`[^CV]
@@ -25,6 +26,8 @@ I've mostly worked on closed-source projects to date, however, I do maintain a n
 ---
 
 ## Footnotes
+
+[^LINKEDIN]: I don't like the default LinkedIn Job Search UI, so I'm building my own one with the help of a Chrome Browser Extension
 
 [^WEBSITE]: The website is generated via `Jekyll`, and styled via `TailwindCSS`
 
