@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 I've mostly worked on closed-source projects to date, however, I do maintain a number of small, personal projects to serve my own needs -
 
+- [`rdmolony/sync-claude-code-with-github-issues`](https://github.com/rdmolony/sync-claude-code-with-github-issues)[^SYNC]
 - [`rdmolony/my-linkedin-ui`](https://github.com/rdmolony/my-linkedin-ui)[^LINKEDIN]
 - [`rdmolony/rdmolony.github.io`](https://github.com/rdmolony/rdmolony.github.io) - I host my own static website on `GitHub Pages`[^WEBSITE]
 - [`rdmolony/my-wiki-infra`](https://github.com/rdmolony/my-wiki-infra) - I host my own wiki on [fly.io](https://fly.io/)[^WIKI]
@@ -26,6 +27,8 @@ I've mostly worked on closed-source projects to date, however, I do maintain a n
 ---
 
 ## Footnotes
+
+[^SYNC]: If I'm generating code via conversation with an LLM, I should be able cross-reference that conversation from my code commits, this repo syncs `Claude Code` to `GitHub Issues` to do so
 
 [^LINKEDIN]: I don't like the default LinkedIn Job Search UI, so I'm building my own one with the help of a Chrome Browser Extension
 
